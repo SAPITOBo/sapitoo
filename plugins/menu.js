@@ -93,6 +93,12 @@ let menu = `
 
 ┣ ඬ⃟💫 _${usedPrefix}ppt
 
+┣ ඬ⃟💫 _${usedPrefix}topotakus
+
+┣ ඬ⃟💫 _${usedPrefix}topgays
+
+
+
 
 
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
