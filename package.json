@@ -1,7 +1,7 @@
 {
-    "name": "SimpleBot",
+    "name": "SapitoBot",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "description": "Este es el bot más tercermundista",
     "depecrated": false,
     "main": "index.js",
     "directories": {
