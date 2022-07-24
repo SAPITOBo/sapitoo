@@ -91,6 +91,8 @@ let menu = `
 
 ┣ ඬ⃟💫 _${usedPrefix}smooth *[nota de voz]*_
 
+┣ ඬ⃟💫 _${usedPrefix}ppt
+
 
 
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
