@@ -1,22 +1,14 @@
-# `💫 𝑆𝐼𝑀𝑃𝐿𝐸 - 𝐵𝑂𝑇 💫`
+# `💫 𝑆ApIto - 𝐵𝑂𝑇 💫`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/S4n-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/SimpleBot)
-```bash
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-```
+Si quieres saber más sobre el bot entra aquí en el link
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/SimpleBot/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/SimpleBot/blob/master/config.js)
+https://youtu.be/HpFxZuUExik
+
+
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -31,7 +23,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > apt install ffmpeg -y
 > apt install imagemagick -y
 > git clone https://github.com/BrunoSobrino/SimpleBot
-> cd SimpleBot
+> cd sapitoo
 > yarn install
 > npm install
 > npm update
@@ -42,7 +34,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd SimpleBot
+> cd sapitoo
 > npm start
 ```
 
