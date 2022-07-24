@@ -91,13 +91,9 @@ let menu = `
 
 ┣ ඬ⃟💫 _${usedPrefix}smooth *[nota de voz]*_
 
-┣ ඬ⃟💫 _${usedPrefix}ppt
+┣ ඬ⃟💫 _${usedPrefix}simpcard_
 
-┣ ඬ⃟💫 _${usedPrefix}topotakus
-
-┣ ඬ⃟💫 _${usedPrefix}topgays
-
-┣ ඬ⃟💫 _${usedPrefix}estado
+┣ ඬ⃟💫 _${usedPrefix}estado_ (para saber si el bot está activo)
 
 
 
