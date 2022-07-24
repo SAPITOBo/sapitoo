@@ -85,7 +85,7 @@ async function connectionUpdate(update) {
     global.timestamp.connect = new Date
   }
   if (global.db.data == null) loadDatabase()
-  if (connection == 'open') {console.log(chalk.yellow('▣─────────────────────────────···\n│\n│❧ 𝙲𝙾𝙽𝙴𝙲𝚃𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴 𝙰𝙻 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 ✅\n│\n▣─────────────────────────────···'))}
+  if (connection == 'open') {console.log(chalk.yellow('▣─────────────────────────────···\n│\n│❧ EL BOT MÁS TERCERMUNDISTA SE ACTIVO CORRECTAMENTE ✅\n│\n▣─────────────────────────────···'))}
 }
 
 process.on('uncaughtException', console.error)
