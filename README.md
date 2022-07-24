@@ -4,7 +4,7 @@
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/S4n-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
-Si quieres saber más sobre el bot entra aquí en el link
+### ` Si quieres saber más sobre el bot entra aquí en el link `
 
 https://youtu.be/HpFxZuUExik
 
