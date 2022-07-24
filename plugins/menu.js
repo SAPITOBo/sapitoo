@@ -97,6 +97,8 @@ let menu = `
 
 ┣ ඬ⃟💫 _${usedPrefix}topgays
 
+┣ ඬ⃟💫 _${usedPrefix}estado
+
 
 
 
