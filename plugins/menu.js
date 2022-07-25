@@ -17,7 +17,7 @@ let username = conn.getName(who)
 let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${username}!!* _ESPERO QUE TENGAS UN LINDO DÍA O NOCHE_
+║➤ *✨𝗛ola, ${username} ${name} !!* _ESPERO QUE TENGAS UN LINDO DÍA O NOCHE_
 
     _Número del creador del bot_ +595 983 186566
     
