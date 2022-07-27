@@ -69,10 +69,10 @@ let menu =
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username} ${name} !!* _ESPERO QUE TENGAS UN LINDO DÍA O NOCHE_
 
-    _Número del creador del bot_ +595 983 186566
+    _Número del creador del bot_: +595 983 186566
    
+*Fecha 📅:* _27 JULIO 2022_
 
-*📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 
     
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
@@ -118,6 +118,49 @@ let menu =
 ┣ ඬ⃟💫 _${usedPrefix}estado_ (para saber si el bot está activo)
 ┣ ඬ⃟💫 _${usedPrefix}spamchat_
 ┣ ඬ⃟💫 _${usedPrefix}gay_
+
+
+
+
+
+
+
+
+
+
+
+
+Porque bajas ? 🤨
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+${name} si sigues bajando serás mi bebito fiu fiu 😮‍💨 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
